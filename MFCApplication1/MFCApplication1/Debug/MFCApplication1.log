@@ -1,0 +1,19 @@
+﻿Сборка начата 28.11.2016 12:59:59.
+     1>Проект "E:\3семестр\laba#12\MFCApplication1\MFCApplication1\MFCApplication1.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MFCApplication1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MFCApplication1View.cpp
+         MFCApplication1View.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\3семестр\laba#12\MFCApplication1\Debug\MFCApplication1.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\3семестр\laba#12\MFCApplication1\Debug\MFCApplication1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\3семестр\laba#12\MFCApplication1\Debug\MFCApplication1.lib" /MACHINE:X86 Debug\MFCApplication1.res
+         Debug\ChildFrm.obj
+         Debug\MainFrm.obj
+         Debug\MFCApplication1.obj
+         Debug\MFCApplication1Doc.obj
+         Debug\MFCApplication1View.obj
+         Debug\stdafx.obj
+         MFCApplication1.vcxproj -> E:\3семестр\laba#12\MFCApplication1\Debug\MFCApplication1.exe
+     1>Сборка проекта "E:\3семестр\laba#12\MFCApplication1\MFCApplication1\MFCApplication1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:23.15
